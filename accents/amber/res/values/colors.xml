@@ -20,6 +20,7 @@
     <color name="accent_device_default_700">#ffab00</color>
     <color name="accent_device_default_dark">#ffab00</color>
     <color name="accent_device_default_light">#ffab00</color>
+    <color name="accent_device_default_light_lxx">#B3ffAB00</color>
     <color name="material_deep_teal_200">#ffab00</color>
     <color name="material_deep_teal_500">#ffab00</color>
     <color name="notification_icon_bg_color">#ffab00</color>

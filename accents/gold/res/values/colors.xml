@@ -20,6 +20,7 @@
     <color name="accent_device_default_700">#CFB53B</color>
     <color name="accent_device_default_dark">#CFB53B</color>
     <color name="accent_device_default_light">#CFB53B</color>
+    <color name="accent_device_default_light_lxx">#B3CFB53B</color>
     <color name="material_deep_teal_200">#CFB53B</color>
     <color name="material_deep_teal_500">#CFB53B</color>
     <color name="notification_icon_bg_color">#CFB53B</color>

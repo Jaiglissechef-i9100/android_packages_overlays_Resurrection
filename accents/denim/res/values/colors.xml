@@ -20,6 +20,7 @@
     <color name="accent_device_default_700">#1560BD</color>
     <color name="accent_device_default_dark">#1560BD</color>
     <color name="accent_device_default_light">#1560BD</color>
+    <color name="accent_device_default_light_lxx">#B31560BD</color>
     <color name="material_deep_teal_200">#1560BD</color>
     <color name="material_deep_teal_500">#1560BD</color>
     <color name="notification_icon_bg_color">#1560BD</color>
